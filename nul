@@ -1,0 +1,6 @@
+Collecting colorist
+  Downloading colorist-1.7.1-py3-none-any.whl.metadata (15 kB)
+Downloading colorist-1.7.1-py3-none-any.whl (57 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 58.0/58.0 kB 1.0 MB/s eta 0:00:00
+Installing collected packages: colorist
+Successfully installed colorist-1.7.1
